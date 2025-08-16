@@ -17,8 +17,6 @@ Run the `.exe` file to start the application.
 
 ## 📸 Overview
 <img width="1500" height="843" alt="hitfilm-main-interface" src="https://github.com/user-attachments/assets/0f706b5a-b972-4fd6-9c6f-e997a18ce12c" />
-![hitfilm-video-editing-timeline](https://github.com/user-attachments/assets/cbdb64e9-7081-4a9f-bd76-5e143303c0eb)
-
 
 ## 🎯 Key Features
 ⚡ **Multi-Track Video Editing** – Organize and edit video, audio, and effects with precision.  
